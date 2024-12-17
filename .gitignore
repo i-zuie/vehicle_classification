@@ -19,8 +19,8 @@
 *.data
 *.json
 *.cfg
-runs/*
-data/*
 *.pt
 *.pth
 *.cache
+
+
