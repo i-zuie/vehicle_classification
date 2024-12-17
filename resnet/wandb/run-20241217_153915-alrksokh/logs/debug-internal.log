@@ -1,0 +1,16 @@
+{"time":"2024-12-17T15:39:15.299247427+08:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2024-12-17T15:39:15.299286226+08:00","level":"INFO","msg":"created symlink","path":"/root/autodl-tmp/vehicle_classification/resnet/wandb/run-20241217_153915-alrksokh/logs/debug-core.log"}
+{"time":"2024-12-17T15:39:15.42784543+08:00","level":"INFO","msg":"created new stream","id":"alrksokh"}
+{"time":"2024-12-17T15:39:15.427992321+08:00","level":"INFO","msg":"stream: started","id":"alrksokh"}
+{"time":"2024-12-17T15:39:15.428037614+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"alrksokh"}
+{"time":"2024-12-17T15:39:15.428187802+08:00","level":"INFO","msg":"handler: started","stream_id":"alrksokh"}
+{"time":"2024-12-17T15:39:15.428218294+08:00","level":"INFO","msg":"sender: started","stream_id":"alrksokh"}
+{"time":"2024-12-17T15:39:16.175725161+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-17T15:39:17.525999942+08:00","level":"INFO","msg":"stream: closing","id":"alrksokh"}
+{"time":"2024-12-17T15:39:17.526046232+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-17T15:39:17.527065434+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-17T15:39:18.61523125+08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-17T15:39:19.692636797+08:00","level":"INFO","msg":"handler: closed","stream_id":"alrksokh"}
+{"time":"2024-12-17T15:39:19.692736766+08:00","level":"INFO","msg":"sender: closed","stream_id":"alrksokh"}
+{"time":"2024-12-17T15:39:19.692725095+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"alrksokh"}
+{"time":"2024-12-17T15:39:19.692941093+08:00","level":"INFO","msg":"stream: closed","id":"alrksokh"}

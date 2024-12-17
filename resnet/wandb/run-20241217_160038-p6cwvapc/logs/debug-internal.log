@@ -1,0 +1,17 @@
+{"time":"2024-12-17T16:00:38.064127897+08:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2024-12-17T16:00:38.064162989+08:00","level":"INFO","msg":"created symlink","path":"/root/autodl-tmp/vehicle_classification/resnet/wandb/run-20241217_160038-p6cwvapc/logs/debug-core.log"}
+{"time":"2024-12-17T16:00:38.176671338+08:00","level":"INFO","msg":"created new stream","id":"p6cwvapc"}
+{"time":"2024-12-17T16:00:38.176723049+08:00","level":"INFO","msg":"stream: started","id":"p6cwvapc"}
+{"time":"2024-12-17T16:00:38.176831561+08:00","level":"INFO","msg":"sender: started","stream_id":"p6cwvapc"}
+{"time":"2024-12-17T16:00:38.176856142+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"p6cwvapc"}
+{"time":"2024-12-17T16:00:38.177016426+08:00","level":"INFO","msg":"handler: started","stream_id":"p6cwvapc"}
+{"time":"2024-12-17T16:00:38.9784177+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-17T16:01:01.271071355+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-17T16:01:01.272064016+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-17T16:01:02.238996245+08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-17T16:01:02.27258207+08:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading summary, console lines 1-2","runtime_seconds":0.033216844}],"total_operations":1}}
+{"time":"2024-12-17T16:01:04.05377478+08:00","level":"INFO","msg":"stream: closing","id":"p6cwvapc"}
+{"time":"2024-12-17T16:01:04.053804594+08:00","level":"INFO","msg":"handler: closed","stream_id":"p6cwvapc"}
+{"time":"2024-12-17T16:01:04.053815671+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"p6cwvapc"}
+{"time":"2024-12-17T16:01:04.05386424+08:00","level":"INFO","msg":"sender: closed","stream_id":"p6cwvapc"}
+{"time":"2024-12-17T16:01:04.053945184+08:00","level":"INFO","msg":"stream: closed","id":"p6cwvapc"}

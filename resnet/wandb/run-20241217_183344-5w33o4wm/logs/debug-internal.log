@@ -1,0 +1,17 @@
+{"time":"2024-12-17T18:33:44.742524566+08:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2024-12-17T18:33:44.742544829+08:00","level":"INFO","msg":"created symlink","path":"/root/autodl-tmp/vehicle_classification/resnet/wandb/run-20241217_183344-5w33o4wm/logs/debug-core.log"}
+{"time":"2024-12-17T18:33:44.862245751+08:00","level":"INFO","msg":"created new stream","id":"5w33o4wm"}
+{"time":"2024-12-17T18:33:44.862318227+08:00","level":"INFO","msg":"stream: started","id":"5w33o4wm"}
+{"time":"2024-12-17T18:33:44.862357648+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"5w33o4wm"}
+{"time":"2024-12-17T18:33:44.862365465+08:00","level":"INFO","msg":"handler: started","stream_id":"5w33o4wm"}
+{"time":"2024-12-17T18:33:44.862378445+08:00","level":"INFO","msg":"sender: started","stream_id":"5w33o4wm"}
+{"time":"2024-12-17T18:33:45.671651638+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-17T20:11:56.675653479+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-17T20:11:56.677036032+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-17T20:11:57.676537209+08:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.45466995},{"desc":"uploading config.yaml","runtime_seconds":0.189189207},{"desc":"uploading output.log","runtime_seconds":0.189157506}],"total_operations":3}}
+{"time":"2024-12-17T20:11:58.048062906+08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-17T20:12:00.047586741+08:00","level":"INFO","msg":"stream: closing","id":"5w33o4wm"}
+{"time":"2024-12-17T20:12:00.047620367+08:00","level":"INFO","msg":"handler: closed","stream_id":"5w33o4wm"}
+{"time":"2024-12-17T20:12:00.047635624+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"5w33o4wm"}
+{"time":"2024-12-17T20:12:00.047663671+08:00","level":"INFO","msg":"sender: closed","stream_id":"5w33o4wm"}
+{"time":"2024-12-17T20:12:00.049511183+08:00","level":"INFO","msg":"stream: closed","id":"5w33o4wm"}

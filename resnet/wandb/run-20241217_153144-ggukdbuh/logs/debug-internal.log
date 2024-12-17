@@ -1,0 +1,18 @@
+{"time":"2024-12-17T15:31:44.818702205+08:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2024-12-17T15:31:44.818739045+08:00","level":"INFO","msg":"created symlink","path":"/root/autodl-tmp/vehicle_classification/resnet/wandb/run-20241217_153144-ggukdbuh/logs/debug-core.log"}
+{"time":"2024-12-17T15:31:44.94253231+08:00","level":"INFO","msg":"created new stream","id":"ggukdbuh"}
+{"time":"2024-12-17T15:31:44.942611566+08:00","level":"INFO","msg":"stream: started","id":"ggukdbuh"}
+{"time":"2024-12-17T15:31:44.942774513+08:00","level":"INFO","msg":"handler: started","stream_id":"ggukdbuh"}
+{"time":"2024-12-17T15:31:44.94277698+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"ggukdbuh"}
+{"time":"2024-12-17T15:31:44.942890021+08:00","level":"INFO","msg":"sender: started","stream_id":"ggukdbuh"}
+{"time":"2024-12-17T15:31:45.713873495+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-17T15:35:34.204948621+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-17T15:35:34.205991019+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-17T15:35:35.205867148+08:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading config.yaml","runtime_seconds":0.206483065,"progress":"500B/500B"},{"desc":"uploading output.log","runtime_seconds":0.206462002,"progress":"623B/623B"}],"total_operations":2}}
+{"time":"2024-12-17T15:35:35.382194369+08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-17T15:35:35.662639253+08:00","level":"INFO","msg":"stream: closing","id":"ggukdbuh"}
+{"time":"2024-12-17T15:35:35.662724122+08:00","level":"WARN","msg":"sender: received Exit record more than once, ignoring"}
+{"time":"2024-12-17T15:35:36.003931158+08:00","level":"INFO","msg":"handler: closed","stream_id":"ggukdbuh"}
+{"time":"2024-12-17T15:35:36.00398959+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"ggukdbuh"}
+{"time":"2024-12-17T15:35:36.004012754+08:00","level":"INFO","msg":"sender: closed","stream_id":"ggukdbuh"}
+{"time":"2024-12-17T15:35:36.004092512+08:00","level":"INFO","msg":"stream: closed","id":"ggukdbuh"}

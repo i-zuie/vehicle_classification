@@ -1,0 +1,17 @@
+{"time":"2024-12-17T16:01:19.531789381+08:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2024-12-17T16:01:19.531813621+08:00","level":"INFO","msg":"created symlink","path":"/root/autodl-tmp/vehicle_classification/resnet/wandb/run-20241217_160119-gplqaqto/logs/debug-core.log"}
+{"time":"2024-12-17T16:01:19.65104047+08:00","level":"INFO","msg":"created new stream","id":"gplqaqto"}
+{"time":"2024-12-17T16:01:19.651106439+08:00","level":"INFO","msg":"stream: started","id":"gplqaqto"}
+{"time":"2024-12-17T16:01:19.651168094+08:00","level":"INFO","msg":"sender: started","stream_id":"gplqaqto"}
+{"time":"2024-12-17T16:01:19.651167503+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"gplqaqto"}
+{"time":"2024-12-17T16:01:19.651218111+08:00","level":"INFO","msg":"handler: started","stream_id":"gplqaqto"}
+{"time":"2024-12-17T16:01:20.43576441+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-17T18:33:02.345543186+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-17T18:33:02.34702795+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-17T18:33:03.346324562+08:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.48158153,"progress":"212B/212B"},{"desc":"uploading output.log","runtime_seconds":0.242470897,"progress":"47B/47B"},{"desc":"uploading config.yaml","runtime_seconds":0.242440761,"progress":"500B/500B"}],"total_operations":3}}
+{"time":"2024-12-17T18:33:03.621204974+08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-17T18:33:05.521392838+08:00","level":"INFO","msg":"stream: closing","id":"gplqaqto"}
+{"time":"2024-12-17T18:33:05.521434546+08:00","level":"INFO","msg":"handler: closed","stream_id":"gplqaqto"}
+{"time":"2024-12-17T18:33:05.521450711+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"gplqaqto"}
+{"time":"2024-12-17T18:33:05.521494327+08:00","level":"INFO","msg":"sender: closed","stream_id":"gplqaqto"}
+{"time":"2024-12-17T18:33:05.521686845+08:00","level":"INFO","msg":"stream: closed","id":"gplqaqto"}
